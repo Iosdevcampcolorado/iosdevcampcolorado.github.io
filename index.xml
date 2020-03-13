@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iOSDevCamp Colorado</title>
-    <link>https://iosdevcampcolorado.github.io/</link>
+    <link>https://iosdevcampcolorado.com/</link>
     <description>Recent content on iOSDevCamp Colorado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://iosdevcampcolorado.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iosdevcampcolorado.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code of Conduct</title>
-      <link>https://iosdevcampcolorado.github.io/coc/</link>
+      <link>https://iosdevcampcolorado.com/coc/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iosdevcampcolorado.github.io/coc/</guid>
+      <guid>https://iosdevcampcolorado.com/coc/</guid>
       <description>iOSDevCamp Colorado Code of Conduct iOSDevCamp Colorado is open to anyone interested in iOS development, and we have always welcomed and encouraged participation by anyone. Right up to the point where one person’s participation infringes on another person’s enjoyment and participation, that is.
 It’s tempting to just say “don’t be an ass, be nice to people” and leave it at that, but it helps to be more specific than that.</description>
     </item>
     
     <item>
       <title>News</title>
-      <link>https://iosdevcampcolorado.github.io/post/news/</link>
+      <link>https://iosdevcampcolorado.com/post/news/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iosdevcampcolorado.github.io/post/news/</guid>
+      <guid>https://iosdevcampcolorado.com/post/news/</guid>
       <description>Sign up for our newsletter to hear about new iOSDevCamp Colorado events. We promise to never share your information with anyone, ever.
 Enter your email address
 powered by TinyLetter</description>
@@ -34,49 +34,49 @@ powered by TinyLetter</description>
     
     <item>
       <title>Register</title>
-      <link>https://iosdevcampcolorado.github.io/post/register/</link>
+      <link>https://iosdevcampcolorado.com/post/register/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iosdevcampcolorado.github.io/post/register/</guid>
+      <guid>https://iosdevcampcolorado.com/post/register/</guid>
       <description>Registration information will be available as soon as we decide that it&amp;rsquo;s safe to hold the event. In the meantime, sign up for our newsletter or follow us on Twitter so that you&amp;rsquo;ll know when that happens.</description>
     </item>
     
     <item>
       <title>Speak at iOSDevCamp Colorado!</title>
-      <link>https://iosdevcampcolorado.github.io/post/speakers/</link>
+      <link>https://iosdevcampcolorado.com/post/speakers/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iosdevcampcolorado.github.io/post/speakers/</guid>
+      <guid>https://iosdevcampcolorado.com/post/speakers/</guid>
       <description>Ever thought about doing a conference talk? This is your lucky day! This is a participatory event, and the more people who participate, the better the event for everyone.
 iOSDevCamp Colorado is a learing experience for everyone involved, including speakers. If you&amp;rsquo;ve never done a talk before, you can start with us. No really, you can do it. We&amp;rsquo;re happy to help you put a talk together. If you prefer to do it yourself, that&amp;rsquo;s awesome too.</description>
     </item>
     
     <item>
       <title>Sponsors</title>
-      <link>https://iosdevcampcolorado.github.io/post/sponsors/</link>
+      <link>https://iosdevcampcolorado.com/post/sponsors/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iosdevcampcolorado.github.io/post/sponsors/</guid>
+      <guid>https://iosdevcampcolorado.com/post/sponsors/</guid>
       <description>This event would not be possible without the support of our sponsors.
 Our main sponsor is Epicentral Coworking. They have graciously donated their space for iOSDevCamp for the past several years. Thanks, Epicentral!</description>
     </item>
     
     <item>
       <title>What&#39;s iOSDevCamp?</title>
-      <link>https://iosdevcampcolorado.github.io/post/about/</link>
+      <link>https://iosdevcampcolorado.com/post/about/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iosdevcampcolorado.github.io/post/about/</guid>
+      <guid>https://iosdevcampcolorado.com/post/about/</guid>
       <description>iOSDevCamp is an informal conference-style event for iOS app developers of all skill levels. The event is on a Friday evening and then all day Saturday:
  Friday evening, 6:30PM - 9:30PM: Socialize, network, hang out, and plan for Saturday Saturday, 9AM - 6PM: All day presentations, demos, and workshops from the best damn iOS developers in Colorado. Exact schedule TBD, but it’s always a day full of awesome.  We’ll provide Friday night drinks, and coffee and lunch on Saturday.</description>
     </item>
     
     <item>
       <title>Where is it?</title>
-      <link>https://iosdevcampcolorado.github.io/post/location/</link>
+      <link>https://iosdevcampcolorado.com/post/location/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iosdevcampcolorado.github.io/post/location/</guid>
+      <guid>https://iosdevcampcolorado.com/post/location/</guid>
       <description>We plan to return to Epicentral Coworking, at 415 N Tejon Street in Colorado Springs. They&amp;rsquo;ve hosted us for several years and were our choice for spring 2020.
  </description>
     </item>
